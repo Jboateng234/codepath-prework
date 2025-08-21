@@ -18,6 +18,7 @@ The following **required** functionality is completed:
 
 
 [Guide]](https://youtube.com/shorts/KFyIk9Ov3bg) .
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVmM2VpN3h5YzY1NHM4bDYzdHFhcmhtZ2hzb3FvdjkxYWdtbGpxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lWIgdfjYWOYaz5GyK2/giphy.gif)
 
 Instagram
 - Changing the background color of the messages screen
@@ -46,11 +47,11 @@ Shared Photo Gallery: A collaborative space where everyone who attended can uplo
 
 
 Challenges faced... 
-- they were getting the storyboard and SwiftUI mixed up, also mixing up the file names.
+- Getting the storyboard and SwiftUI mixed up, also mixing up the file names.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [John Boateng]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
